@@ -1,0 +1,8 @@
+Q5-https://hg.python.org/cpython/file/3.5/Lib/argparse.py#l2369- I got the inbuilt error method from here and modified it.
+Q2-https://www.w3schools.com/python/python_regex.asp
+        www.regex101.com
+        https://stackoverflow.com/questions/19821487/python-regex-match-or-operator
+
+Q4-python documentation for sorted and lambda expressions
+https://docs.python.org/3/howto/sorting.html
+

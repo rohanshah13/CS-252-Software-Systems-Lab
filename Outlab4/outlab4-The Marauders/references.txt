@@ -1,0 +1,9 @@
+Task 3
+https://stackoverflow.com/questions/11064786/get-pixels-rgb-using-pil
+http://scipy-lectures.org/advanced/image_processing/
+https://stackoverflow.com/questions/28010860/slicing-3d-numpy-arrays
+https://stackoverflow.com/questions/25301466/trouble-with-scipy-kmeans-and-kmeans2-clustering-in-python
+https://www.programcreek.com/python/example/77010/scipy.cluster.vq.kmeans2
+
+Task1
+Q1:https://stackoverflow.com/questions/9170838/surface-plots-in-matplotlib

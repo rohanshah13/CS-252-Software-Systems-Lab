@@ -1,0 +1,5 @@
+Q3
+https://docs.oracle.com/javase/tutorial/essential/concurrency/
+https://stackoverflow.com/questions/15931405/server-handling-many-clients-java
+https://docs.oracle.com/javase/tutorial/networking/sockets/examples/KKMultiServer.java
+https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
